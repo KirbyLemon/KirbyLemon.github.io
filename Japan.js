@@ -12,6 +12,6 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Okinawa Japan: Coordinates: 26.33583°N latitude and 127.80139°E longitude -> 26.33583, 127.80139
 L.circle([26.33583, 127.80139], {
   fillColor: '#FFECA1',
-  color: '#6B93F0',
+  color: '#BFD641',
   radius: 1000
 }).addTo(map);
